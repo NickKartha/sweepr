@@ -1,4 +1,4 @@
-# sweepr_concept
+# sweepr
 
 A barebones, not fully functional implementation of the classic Minesweeper
 game. This version was developed as a proof-of-concept for [my other minesweepr
@@ -17,3 +17,16 @@ Randomly selects placement of the 11 bombs. Allows use of flags (hold 'shift'
 while clicking on a square). Does nothing if you click on a flagged tile (hold
 'shift' while clicking on a flag to un-flag it). Propagates empty tiles when
 you click on a bomb-free tile.
+
+# Schiffman
+
+## Video: https://www.youtube.com/watch?v=LFU5ZlrR21E
+## Wiki: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+
+
+## Other links: 
++ https://en.wikipedia.org/wiki/Flood_fill
++ arrays in js: https://www.youtube.com/watch?v=OTNpiLUSiB4
++ prototypes in js: https://www.youtube.com/watch?v=hS_WqkyUah8
+
+
